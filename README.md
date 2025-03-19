@@ -41,9 +41,6 @@ Since it's a frontend-only project, there is no need to install any dependencies
 - **CSS**
 - **JavaScript**
 
----
-
-Let me know if you need further adjustments!
 ![p1](https://github.com/111faizan/ecommerce_page/assets/95275307/8ec75f54-aa7a-4893-9a06-293fddbe03b6)
 ![p2](https://github.com/111faizan/ecommerce_page/assets/95275307/edf2f9d4-9181-41de-b012-1a984d740c3c)
 ![p3](https://github.com/111faizan/ecommerce_page/assets/95275307/851cbcad-2a85-4b88-a632-1c47806a2604)
